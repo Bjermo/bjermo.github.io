@@ -23,7 +23,7 @@ repository               : "bjermo/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilbild-bjermo.png"
+  avatar           : "profilbild-bjermo.jpg"
   name             : "Jonas Bjermo"
   pronouns         : # example: "she/her"  
   bio              : "Resarcher with focus on statistical methods related to educational measurement"
