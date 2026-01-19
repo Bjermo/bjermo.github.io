@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-
 I am a postdoctoral researcher at the Division of Statistics and Machine Learning (STIMA) at Linköping University in Sweden. My research is mainly focused on optimal test design and item calibration. I mostly use Item Response Theory, optimal design, and combinatorial optimization techniques in my research. Feel free to contact me if you have interesting topics to discuss or are interested in collaborating.
 
 About me
