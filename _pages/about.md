@@ -13,7 +13,7 @@ I am a postdoctoral researcher at the Division of Statistics and Machine Learnin
 
 About me
 ======
-I have a master's degree in mathematics from Uppsala University, which I later supplemented with three semesters of statistics. After working as a statistician at Statistics Sweden (SCB) and the National Agency of Education (Skolverket) for about six years, I started as a doctoral student at the Department of Statistics of Stockholm University. I defended my thesis, entitled "Test Design for Mean Ability Growth and Optimal Item Calibration for Achievement Tests" in December 2021. After working one year as a temporary lecturer, I started my current position as a post-doctoral researcher at the Division of Statistics and Machine Learning (STIMA) at Linköping University.
+I have a master's degree in mathematics from Uppsala University, which I later supplemented with three semesters of statistics. After working as a statistician at Statistics Sweden (SCB) and the National Agency of Education (Skolverket) for about six years, I started as a doctoral student at the Department of Statistics of Stockholm University. I defended my thesis, entitled "Test Design for Mean Ability Growth and Optimal Item Calibration for Achievement Tests" in December 2021, supervised by Frank Miller. After working one year as a temporary lecturer, I started my current position as a post-doctoral researcher at the Division of Statistics and Machine Learning (STIMA) at Linköping University.
 
 
 Besides my research interest, I am interested in mathematics in general. Especially algebra and algebraic statistics. I am also interested in Science in general and astrophysics and quantum mechanics in particular. Even though my understanding of the latter is on a layman's level.
