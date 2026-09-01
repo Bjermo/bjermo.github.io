@@ -11,11 +11,9 @@ I am a statistician and researcher. My research is mainly focused on optimal tes
 
 About me
 ======
-I have a master's degree in mathematics from Uppsala University, which I later supplemented with three semesters of statistics. After working as a statistician at Statistics Sweden (SCB) and the National Agency of Education (Skolverket) for about six years, I started as a doctoral student at the Department of Statistics of Stockholm University. I defended my thesis, entitled "Test Design for Mean Ability Growth and Optimal Item Calibration for Achievement Tests" in December 2021, supervised by Frank Miller. After working for one year as a temporary lecturer, I started a position as a postdoctoral researcher at the Division of Statistics and Machine Learning (STIMA) at Linköping University. 
+I have a master's degree in mathematics from Uppsala University, which I later supplemented with three semesters of statistics. After working as a statistician at Statistics Sweden (SCB) and the National Agency of Education (Skolverket) for about six years, I began my doctoral studies in the Department of Statistics at Stockholm University. I defended my thesis, entitled "Test Design for Mean Ability Growth and Optimal Item Calibration for Achievement Tests" in December 2021, supervised by Frank Miller. After working for one year as a temporary lecturer, I started a position as a postdoctoral researcher at the Division of Statistics and Machine Learning (STIMA) at Linköping University. 
 
-Besides my research interests, I am interested in science in general. Especially mathematics, theoretical physics, and astronomy. Even though my understanding of the latter is at a layman's level. 
-
-If you have any research interests you would like to discuss, don't hesitate to contact me!
+Besides my research interests, I am interested in science in general—especially mathematics, theoretical physics, and astronomy. If you have any research interests you would like to discuss, don't hesitate to contact me!
 
 
 Research
