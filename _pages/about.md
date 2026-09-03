@@ -22,8 +22,14 @@ Research
 
 News
 ------
+August 2026 - I will be holding a breakfast seminar for the Svenska Statistikfrämjandet on Item Response Theory on October 14.
 
 August 2026 - New preprint available! [Algorithms for optimizing model-based incomplete block designs](https://arxiv.org/abs/2608.27056) with Frank Miller.
+
+June 2026 - Presented at NORDSTAT 2026 with the title "Algorithms for optimizing model-based incomplete block designs"
+
+
+
 
 
 
