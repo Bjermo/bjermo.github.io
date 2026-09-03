@@ -18,7 +18,9 @@ Besides my research interests, I am interested in science in general—especiall
 
 Research
 ======
+My research has so far revolved around optimal experimental design in achievement test assembly and item calibration. Lately, I have broadened my research to more general optimal design problems and heuristic combinatorial optimization methods. In the coming years, I would like to deepen and develop my research focus in both theoretical method development and applications in new domains and within educational measurement. 
 
+A more general goal is to develop theoretical methods within combinatorial optimization and optimal experimental design with a clear connection to applied problems. See my list of publications for more details about my research.
 
 News
 ------
