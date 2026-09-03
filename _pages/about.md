@@ -23,7 +23,7 @@ Research
 News
 ------
 
-August 2026 - New preprint available! "Algorithms for optimizing model-based incomplete block designs" with Frank Miller.
-https://arxiv.org/abs/2608.27056
+August 2026 - New preprint available! [Algorithms for optimizing model-based incomplete block designs](https://arxiv.org/abs/2608.27056) with Frank Miller.
+
 
 
