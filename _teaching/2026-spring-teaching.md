@@ -1,20 +1,12 @@
 ---
-title: "Current teaching"
+title: "Previous teaching"
 collection: teaching
-type: "Undergraduate course "
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Statistics and data analysis I and II "
+permalink: /teaching/2026-spring-teaching
+venue: "Stockholm University, Department"
+date: 2026-01-01
+location: "Stockholm, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lecturer for the second part of the course Statistics and Data Analysis I and the second part of the course Statistics and Data Analysis II.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
