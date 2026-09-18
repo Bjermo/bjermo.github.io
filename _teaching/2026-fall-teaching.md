@@ -5,7 +5,7 @@ type: "Undergraduate course "
 permalink: /teaching/2026-fall-teaching
 venue: "Stockholm University, Department of Statistics"
 date: 2026-12-10
-location: "City, Country"
+location: "Stockholm, Sweden"
 ---
 
 Statistics and data analysis II
