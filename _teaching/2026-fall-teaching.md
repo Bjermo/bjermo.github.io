@@ -10,7 +10,7 @@ location: "Stockholm, Sweden"
 
 Lecturer for the second part of the course Statistics and Data Analysis II.
 
-fff
+The course starts in December 2026. See https://www.su.se/english/education/course-catalogue/st/st1202 for more information
 
 
 
